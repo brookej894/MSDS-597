@@ -1,5 +1,5 @@
 # MSDS-597-SQL
-Course MSDS 597 in Data Management using SQL taught at USF during the Fall Semester 2021
+Course MSDS 597 in Data Management using SQL with R Studio taught at USF during the Fall Semester 2021
 
 
 Note: HW 1 was reporting data descriptions for the movies dataset score(100/100):
