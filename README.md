@@ -1,4 +1,4 @@
-# MSDS-597
+# MSDS-597-SQL
 Course MSDS 597 in Data Management using SQL taught at USF during the Fall Semester 2021
 
 
